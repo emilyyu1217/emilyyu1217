@@ -9,6 +9,5 @@
 
 I'm Emily Yu, a developer passionate about building great software.
 
-![Snake animation](https://raw.githubusercontent.com/emilyyu1217/emilyyu1217/output/github-snake-dark.svg)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emilyyu1217&theme=react-dark&hide_border=true)
 
